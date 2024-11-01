@@ -22,7 +22,7 @@ This is a Java-based simulation of an elevator system designed to handle multipl
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/premtsd18/ElevatorLLD
-   cd elevator-system-simulation
+   cd ElevatorLLD
    ```
 
 2. **Compile the Code**:
